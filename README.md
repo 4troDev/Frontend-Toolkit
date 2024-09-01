@@ -79,7 +79,7 @@ We encourage contributions to make the Frontend Toolkit even better. To contribu
    ```
 6. **Submit a Pull Request**.
 
-For detailed contribution guidelines, please refer to the `CONTRIBUTING.md` file.
+For detailed contribution guidelines, please refer to the  [CONTRIBUTING](./CONTRIBUTING) file.
 
 ## 📜 License
 
