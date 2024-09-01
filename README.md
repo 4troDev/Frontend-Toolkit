@@ -79,11 +79,11 @@ We encourage contributions to make the Frontend Toolkit even better. To contribu
    ```
 6. **Submit a Pull Request**.
 
-For detailed contribution guidelines, please refer to the  [CONTRIBUTING](./CONTRIBUTING) file.
+For detailed contribution guidelines, please refer to the  [CONTRIBUTING](./CONTRIBUTING.md) file.
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for more details.
 
 ---
 
