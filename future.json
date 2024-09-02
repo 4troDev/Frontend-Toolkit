@@ -1,0 +1,21 @@
+
+[
+    {
+    "name": "Tool Name",
+    "logo": "https://www.tool.com/logo.png", // Use 'https://' for URLs and include file extension
+    "Description": "Short description of the tool.",
+    "URL": "https://www.website.com", // Use 'https://' for URLs
+    "added-by": "@username", // Your username
+    "Tags": "Development, Productivity, Open Source" // Tags separated by commas
+},
+
+// Eg:
+{
+    "name": "Visual Studio Code",
+    "logo": "https://code.visualstudio.com/favicon.ico",
+    "Description": "A powerful code editor with a rich ecosystem.",
+    "URL": "https://code.visualstudio.com",
+    "added-by": "@developer123",
+    "Tags": "Development, Code Editor, Open Source"
+}
+]

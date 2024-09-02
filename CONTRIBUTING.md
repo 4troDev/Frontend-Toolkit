@@ -62,7 +62,7 @@ git push origin feature/add-new-resource
 
 Open a pull request from your forked repository to the main repository:
 
-1. Go to the [Pull Requests page](https://github.com/your-username/frontend-toolkit/pulls) of the original repository.
+1. Go to the [Pull Requests page](https://github.com/4trodev/frontend-toolkit/pulls) of the original repository.
 
 2. Click the "New Pull Request" button.
 
